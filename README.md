@@ -12,6 +12,8 @@ The main algorithm is implemented in [geometry-central](http://geometry-central.
 
 If this code contributes to academic work, please cite:
 
+
+
 ```
 @article{sharp2020you,
   title={You can find geodesic paths in triangle meshes by just flipping edges},
