@@ -11,9 +11,6 @@ This algorithm takes as input a path (or loop/network of paths) along the edges 
 The main algorithm is implemented in [geometry-central](http://geometry-central.net/surface/algorithms/flip_geodesics/). This repository contains a simple demo application including a GUI to invoke that implementation.
 
 If this code contributes to academic work, please cite:
-
-
-
 ```
 @article{sharp2020you,
   title={You can find geodesic paths in triangle meshes by just flipping edges},
